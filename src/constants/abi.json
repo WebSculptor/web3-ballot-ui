@@ -64,7 +64,7 @@
   },
   {
     "inputs": [],
-    "name": "getAllProposal",
+    "name": "getAllProposals",
     "outputs": [
       {
         "components": [
